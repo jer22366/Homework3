@@ -16,3 +16,5 @@ checkdate function
 
 checktitle function
 
+upload homework3.txt this is the code
+
