@@ -12,3 +12,7 @@ newdata function
 
 cleantextbox function
 
+checkdate function
+
+checktitle function
+
